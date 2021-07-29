@@ -1,0 +1,57 @@
+body {
+    /* background-color: #E4E9FD; */
+    background-image: -webkit-linear-gradient(65deg, #A683E3 50%, #E4E9FD 50%);
+    min-height: 1000px;
+    
+    font-family: 'helvetica neue';
+}
+
+
+
+.user{
+    display: inline;
+    position: fixed;
+    top: 3%;
+    left: 3%;
+    font-size: 1.3rem;
+}
+
+.logout{
+    display: inline;
+    
+    position: fixed;
+    
+    top: 3%;
+    right: .5%; 
+    font-size: 1.3rem;
+
+}
+.wlcm {
+    
+    margin-left: 22%;
+    margin-top: 3%
+}
+
+.nav-link{
+    display: inline;
+}
+
+video{
+    float: left;
+    margin: 0% 2%;
+}
+
+
+
+#logout_img{
+    width: 40px;
+    margin-left: 12px;
+}
+
+
+
+.vedio{
+    /* display :inline-block; */
+    margin: 7% 9%;
+   
+}
